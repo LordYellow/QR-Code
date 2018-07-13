@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/qrcodegenerator.dir/qrgen.cpp.o  -o qrcodegenerator 

@@ -1,0 +1,3 @@
+/home/yellow/Documents/github/Tutorial/F/Qrcode/QR-Code/build/CMakeFiles/rebuild_cache.dir
+/home/yellow/Documents/github/Tutorial/F/Qrcode/QR-Code/build/CMakeFiles/qrcodegenerator.dir
+/home/yellow/Documents/github/Tutorial/F/Qrcode/QR-Code/build/CMakeFiles/edit_cache.dir
